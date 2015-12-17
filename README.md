@@ -12,4 +12,7 @@ To achive this we have used [Max for Live](http://cycling74.com/products/maxforl
 
 This repository contains the various tools as we develop them.
 
-Current version: 0.1 (2013-04-21)
+## Added in 0.2 ##
+In version 0.2 a folder with tutorial material was added. There you'll find written instructions as well as Ableton Live projects.
+
+Current version: 0.2 (2015-12-17)
