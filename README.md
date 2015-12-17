@@ -15,4 +15,6 @@ This repository contains the various tools as we develop them.
 ## Added in 0.2 ##
 In version 0.2 a folder with tutorial material was added. There you'll find written instructions as well as Ableton Live projects.
 
+Also in the *tutorials* is an __FCB__-file. This file is for the application [iFCB](http://www.wabbitwanch.com/iFCB.html) which is used to more easily program the Behringer FCB1010.
+
 Current version: 0.2 (2015-12-17)
